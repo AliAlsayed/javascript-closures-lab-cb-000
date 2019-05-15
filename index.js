@@ -18,4 +18,4 @@ function createAnimal(animalType){
   deadlyDevice => {return {animalType, deadlyDevice}}
 }
 
-const sharkCreator = createAnimal('Shark')
+const sharkCreator = createAnimal('Shark');
