@@ -22,10 +22,3 @@ function createAnimal(animalType){
     };
   }
 }
-
-
-
-
-
-
-
